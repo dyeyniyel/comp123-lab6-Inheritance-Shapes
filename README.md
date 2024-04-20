@@ -70,6 +70,7 @@ Copy the following lines to the Main method in the Program.cs file.
 
  #############################################################################################################################
  My output
+ 
  ![image](https://github.com/dyeyniyel/comp123-lab6-Inheritance-Shapes/assets/158533198/b71b43de-e462-48b5-a28b-9273d6c77207)
 
 
